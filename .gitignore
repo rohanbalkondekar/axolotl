@@ -2,6 +2,12 @@
 configs
 
 new_model/finetuned-model/
+.git/objects/cf/177c7fadb92d6490f8230b3b04dc9ff527212d
+.git/objects/34/0b9f49c5b0a618c71b9e3aa34cce8bc2a92702
+.git/objects/dd/f1ddbfc484cf78ef51e920a96769370a0b55e4
+.git/objects/70/e196b5ffb0ffd169f158116ca7dcc90f67badc
+.git/objects/a6/074f1c048c77140e6ae1819cfc5351263009e2
+.git/objects/1a/0c4835ae10a0c549b0c23b500dcac2dacb421d
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
