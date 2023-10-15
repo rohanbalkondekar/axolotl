@@ -1,0 +1,310 @@
+{"instruction": "What is my current account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much money do I have in my account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you tell me my available balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the balance in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Give me the details of my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I'd like to know my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the total in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much do I have in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Tell me my current account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the balance in my main account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's my current account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much money do I have in my account now?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Tell me my available balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What is the balance in my main account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you give me details of my account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's my account balance right now?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Balance check for my account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much do I have in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Could you provide me with my account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I'd like to know my account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Check my account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the total in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you tell me how much is in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much money do I currently have in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Please provide details about my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Balance query for my account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's my balance in the main account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Could you please let me know my current account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I need to check my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the balance in my account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you give me an update on my account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much do I have in my main account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Provide me with my current account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I'd like to inquire about my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Could you please check my account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the total amount in my account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Tell me my account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you provide me with an account balance update?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much money is in my account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Please give me details about my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Balance update for my account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What is the balance in my account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Could you let me know my current account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I need an update on my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the balance in my main account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you give me my account balance, please?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much do I have in my account currently?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Provide me with my account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I'd like to know my account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you please check my account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the total in my account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Could you provide me with an update on my account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much is in my account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Please give me details about my account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Balance check for my main account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's my balance in the account?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Could you please inform me of my current account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "I need to check my main account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the balance in my account", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Can you give me an update on my account balance, please?", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "account balance", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "account bal", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How much money do I have", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "How many bucks do I have", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "Available cash", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What is the largest spend that I can make", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "my account balance please", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "give my ac balance", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "give my account bal", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "my ac bal plz", "output": "{\"action\": \"account_balance\", \"type\": \"default\"}"}
+{"instruction": "What's the balance in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much do I have in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you provide me with the checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Give me the details of my checking account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Tell me the available balance in my checking account.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What is the current balance in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much money is there in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I'd like to know my checking account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Provide me with the balance of my checking account.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the total in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much do I have in my checking account now?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Tell me my available balance in the checking account.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you give me details of my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's my checking account balance right now?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Balance check for my checking account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much is there in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Please provide details about my checking account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Balance query for my checking account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What is the balance in my checking account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you let me know my current checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I need to check my checking account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the balance in my checking account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you give me an update on my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much is in my checking account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Please give me details about my checking account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Balance check for my checking account, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you please inform me of my current checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I'd like to inquire about my checking account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you please check my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the total amount in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Tell me my checking account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you provide me with an update on my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much money is in my checking account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Provide me with my checking account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I'd like to know my checking account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you please check my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the total in my checking account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you provide me with an update on my checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much do I have in my checking account currently?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Provide me with my checking account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I'd like to check the balance in my checking account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you tell me how much is in my checking account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you please provide me with my current checking account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I need an update on my checking account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the balance in my checking account", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you give me an update on my checking account balance, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you please check my checking account balance, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the total in my checking account", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Provide me with an update on my checking account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much is in my checking account", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Please give me details about my checking account balance, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Balance check for my checking account, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's my balance in the checking account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you please inform me of my current checking account balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "I'd like to inquire about my checking account balance, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Could you please check my checking account balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the total amount in my checking account", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Tell me my checking account balance, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Can you provide me with an update on my checking account balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking account balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking ac bal", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much in checking?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How many bucks in checking?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Available cash in checking", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Largest spend in checking?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking account balance please", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "give my checking ac balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "give my checking account bal", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking ac bal plz", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking balance please", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking ac balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "How much in my checking account?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's in my checking?", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking account balance now", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking balance please", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "give my checking account balance", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "my checking ac balance plz", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "checking account bal", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "Available cash in my checking account", "output": "{\"action\": \"account_balance\", \"type\": \"checking\"}"}
+{"instruction": "What's the balance in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much do I have in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you provide me with the savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Give me the details of my savings account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Tell me the available balance in my savings account.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What is the current balance in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much money is there in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I'd like to know my savings account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Provide me with the balance of my savings account.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the total in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much do I have in my savings account now?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Tell me my available balance in the savings account.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you give me details of my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's my savings account balance right now?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Balance check for my savings account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much is there in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Please provide details about my savings account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Balance query for my savings account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What is the balance in my savings account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you let me know my current savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I need to check my savings account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the balance in my savings account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you give me an update on my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much is in my savings account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Please give me details about my savings account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Balance check for my savings account, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you please inform me of my current savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I'd like to inquire about my savings account balance.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you please check my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the total amount in my savings account?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Tell me my savings account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you provide me with an update on my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much money is in my savings account right now?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Provide me with my savings account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I'd like to know my savings account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you please check my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the total in my savings account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you provide me with an update on my savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much do I have in my savings account currently?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Provide me with my savings account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I'd like to check the balance in my savings account, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you tell me how much is in my savings account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you please provide me with my current savings account balance?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I need an update on my savings account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the balance in my savings account", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you give me an update on my savings account balance, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you please check my savings account balance, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the total amount in my savings account", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Provide me with an update on my savings account balance, please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "How much is in my savings account", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Please give me details about my savings account balance, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Balance check for my savings account, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's my balance in the savings account, please?", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you please inform me of my current savings account balance", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I'd like to inquire about my savings account balance, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Could you please check my savings account balance", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "What's the total amount in my savings account", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Tell me my savings account balance, if you please.", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "Can you provide me with an update on my savings account balance", "output": "{\"action\": \"account_balance\", \"type\": \"savings\"}"}
+{"instruction": "I need my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Can you provide me with my recent transactions?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me the statement for my account.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What are the latest transactions in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please show me the account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I'd like to see my recent transactions.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Provide my account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What transactions have occurred in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Show me the statement for my account.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me details about my recent transactions.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I need the statement for my main account.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What are the recent transactions in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please provide my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Show me my account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I'd like to review my recent transactions.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Can you display the statement for my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me a summary of my recent transactions.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What transactions are in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please show me my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I need the statement for my primary account.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What are the latest activities in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Provide the account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Display my recent transactions, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Show me my recent transactions, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I'd like to see my account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Can you give me the statement for my account, please?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me details about my account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please provide the statement for my account.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I need to check my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What are the recent entries in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Show me the statement for my account, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me a summary of my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please display my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I'd like to review my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Can you show me the statement for my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What transactions have occurred in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Provide the account statement, if you please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Display my account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I'd like to see my recent entries, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Can you give me the statement for my account, please?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me details about my account statement, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please provide the statement for my account.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I need to check my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What are the recent activities in my account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Show me the statement for my savings account, please.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Give me a summary of my main account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Please display my account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "I'd like to review my main account statement.", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Can you show me the statement for my savings account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "What transactions have occurred in my savings account?", "output": "{\"action\": \"account_statement\", \"type\": \"default\"}"}
+{"instruction": "Show me my statement from September 10th, 2023 to September 15th, 2023.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Provide my statement for the time between 10/09/2023 and 15/09/2023, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Display my transactions from 2023-09-10 to 2023-09-15, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you show me my statement for 10-09-2023 to 15-09-2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What happened in my account from September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you provide my statement for the period of September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Please show me my statement from 10-Sep-23 to 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What are the entries between September 10, 2023 and September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "I need the transactions between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Show me my activities from 10-Sep-2023 to 15-Sep-2023, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Display my transactions from 2023/09/10 to 2023/09/15, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Provide my statement for the time between 10/09/2023 and 15/09/2023, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What are the entries between September 10, 2023 and September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "I need transactions between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you provide my statement for the period of September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Please show me my statement from 10-Sep-23 to 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Show me my statement from 2023-09-10 to 2023-09-15.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Display my transactions from 2023-09-10 to 2023-09-15, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you show me my statement for 10-09-2023 to 15-09-2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What happened in my account from September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you provide my statement for the period of September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Please show me my statement from 10-Sep-23 to 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What are the entries between September 10, 2023 and September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "I need transactions between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you provide my statement for the period of September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Please show me my statement from 10-Sep-23 to 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Show me my statement from 2023-09-10 to 2023-09-15.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Display my transactions from 2023-09-10 to 2023-09-15, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you show me my statement for 10-09-2023 to 15-09-2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What happened in my account from September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you provide my statement for the period of September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Please show me my statement from 10-Sep-23 to 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Show me my statement from 2023-09-10 to 2023-09-15.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Display my transactions from 2023-09-10 to 2023-09-15, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you show me my statement for 10-09-2023 to 15-09-2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What happened in my account from September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you provide my statement for the period of September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Please show me my statement from 10-Sep-23 to 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Show me my statement from 2023-09-10 to 2023-09-15.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Give me a summary of my activities between 10-Sep-23 and 15-Sep-23.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Display my transactions from 2023-09-10 to 2023-09-15, please.", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "Can you show me my statement for 10-09-2023 to 15-09-2023?", "output": "{\"action\": \"account_statement\", \"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}
+{"instruction": "What happened in my account from September 10, 2023 to September 15, 2023?", "output": "{\"action\": \"account_statement\",\"type\": \"custom\", \"start_date\": \"10/09/2023\", \"end_date\": \"15/09/2023\" }"}

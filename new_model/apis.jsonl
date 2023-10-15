@@ -1,0 +1,19 @@
+// When the user asks for account balance without specifying the account type
+// Example: What is my current account balance?
+{"action": "account_balance", "type": "default"}
+
+// When the user asks for the account balance in his checking account
+// Example: What's the balance in my checking account?
+{"action": "account_balance", "type": "checking"}
+
+// When the user asks for the account balance in his savings account
+// Example: What's the balance in my savings account?
+{"action": "account_balance", "type": "savings"}
+
+// When the user asks for an account statement without specifying any date range
+// Example: I need my account statement.
+{"action": "account_statement", "type": "default"}
+
+// When the user asks for an account statement with a specified date range
+// Example: Show me my statement from September 10th, 2023 to September 15th, 2023.
+{"action": "account_statement", "type": "custom", "start_date": "10/09/2023", "end_date": "15/09/2023" }
